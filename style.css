@@ -1,0 +1,72 @@
+body {
+    background-color: hsl(30, 54%, 90%);
+}
+
+.container {
+    border: 2px white solid;
+    width: 900px;
+    background-color: hsl(0, 0%, 100%);
+    margin: auto;
+    margin-top: 200px;
+    height: fit-content;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 16px;
+    font-family: "Outfit", serif;
+}
+
+.bord {
+    border: 2px solid hsl(332, 51%, 32%);
+    height: 250px;
+    background-color: hsl(330, 55%, 62%);
+    border-radius: 10px;
+    padding-top: 2px;
+    margin: 30px;
+    padding-left: 50px;
+}
+
+.text1 {
+    text-align: left;
+}
+
+.rore {
+    text-align: left;
+    padding: 30px;
+    padding-top: 10px;
+}
+
+img {
+    width: 800px;
+    margin-top: 60px;
+    border-radius: 10px;
+}
+
+.container2 {
+    text-align: left;
+    color: hsl(14, 45%, 36%);
+    padding-left: 40px;
+}
+
+.xpp {
+    color: black;
+}
+
+.container3 {
+    text-align: left;
+    color: hsl(14, 45%, 36%);
+    padding-left: 40px;
+}
+
+.zeko {
+    color: black;
+}
+
+.container4 {
+    text-align: left;
+    color: hsl(14, 45%, 36%);
+    padding-left: 40px;
+}
+
+p {
+    color: black;
+}
